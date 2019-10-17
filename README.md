@@ -13,7 +13,6 @@
 
 - gobuster
 - dir-search
-- what web
 
 ### exploit
 - pspy
