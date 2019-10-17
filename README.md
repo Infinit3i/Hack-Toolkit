@@ -3,11 +3,11 @@
 ### web add-ons
 - foxy proxy
 - wappalyzer
-- 
+- cookie quick manager
 
 ### Wordlists
-seclist
-unpack rockyou
+- seclist
+- unpack rockyou
 
 ### recon
 
