@@ -1,4 +1,4 @@
-# Hack-Toolkit
+# Hack-Toolkit-ubuntu
 
 ### web add-ons
 - foxy proxy
@@ -13,6 +13,11 @@
 
 - gobuster
 - dir-search
+- nmap
+
+
+### password
+- hydra
 
 ### exploit
 - pspy
