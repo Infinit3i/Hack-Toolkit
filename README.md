@@ -21,3 +21,15 @@
 
 ### exploit
 - pspy
+
+
+
+port 80
+/robots.txt
+/admin
+/wp-login.php
+
+
+
+on box
+find / -type -name "*flag*" -exec ls -l {} + 2>/dev/null
