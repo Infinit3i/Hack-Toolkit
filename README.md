@@ -25,9 +25,13 @@
 
 
 port 80
+look for comments
+look if virtual routing needs to be enabled
 /robots.txt
 /admin
 /wp-login.php
+look for login page
+
 
 
 
